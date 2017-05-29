@@ -1,3 +1,3 @@
 # hello-world
 
-i like lvyinyan  and lushiqi
+i like lvyingyan  and lushiqi
